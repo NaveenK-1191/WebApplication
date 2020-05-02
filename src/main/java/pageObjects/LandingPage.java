@@ -43,5 +43,5 @@ public class LandingPage {
 	public WebElement beveragesSelection() {
 		return beveragesSelection;	
     }
-	
+	nav
 }
